@@ -27,7 +27,7 @@ bars.forEach(b => observer.observe(b));
 // Contact form: validate, then open the visitor's email app
 const form = document.getElementById('contact-form');
 const msg = document.getElementById('form-msg');
-const MY_EMAIL = 'you@example.com'; // change this to your email
+const MY_EMAIL = 'rp0940204@gmail.com'; // change this to your email
 
 form.addEventListener('submit', e => {
   e.preventDefault();
